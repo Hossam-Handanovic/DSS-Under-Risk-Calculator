@@ -1,0 +1,9 @@
+C:\Users\hossa\OneDrive\Desktop\DSS Section22\DSS Section22\bin\Debug\DSS Section22.exe.config
+C:\Users\hossa\OneDrive\Desktop\DSS Section22\DSS Section22\bin\Debug\DSS Section22.exe
+C:\Users\hossa\OneDrive\Desktop\DSS Section22\DSS Section22\bin\Debug\DSS Section22.pdb
+C:\Users\hossa\OneDrive\Desktop\DSS Section22\DSS Section22\obj\Debug\DSS Section22.csprojAssemblyReference.cache
+C:\Users\hossa\OneDrive\Desktop\DSS Section22\DSS Section22\obj\Debug\DSS_Section22.Form1.resources
+C:\Users\hossa\OneDrive\Desktop\DSS Section22\DSS Section22\obj\Debug\DSS_Section22.Properties.Resources.resources
+C:\Users\hossa\OneDrive\Desktop\DSS Section22\DSS Section22\obj\Debug\DSS Section22.csproj.GenerateResource.cache
+C:\Users\hossa\OneDrive\Desktop\DSS Section22\DSS Section22\obj\Debug\DSS Section22.exe
+C:\Users\hossa\OneDrive\Desktop\DSS Section22\DSS Section22\obj\Debug\DSS Section22.pdb
